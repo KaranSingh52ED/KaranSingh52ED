@@ -37,6 +37,7 @@ Indian Institute of Technology, Madras, India
 - Web and Mobile application Development
 - DevOps Engineering, Process Automation, Version control
 - Programming Languages: C++, C, Python, JavaScript, Rust.
+- Data Science and Machine Learning Enthusiasts
 - Low level and High level system design
 - Cloud computation
 - Full stack software engineering
@@ -57,6 +58,6 @@ Indian Institute of Technology, Madras, India
 ## Github Statistics
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=karansingh52ed&show_icons=true&locale=en" alt="karansingh52ed" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karansingh52ed&" alt="karansingh52ed" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=karansingh52ed&show_icons=true&locale=en" alt="karansingh52ed" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karansingh52ed&" alt="karansingh52ed" />
 </div>

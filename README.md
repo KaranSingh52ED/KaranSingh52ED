@@ -11,7 +11,7 @@ Indian Institute of Technology, Madras, India
 
 - 🌱 I’m currently learning **C++ DSA**
 
-- 👨‍💻 All of my projects are available at [kabiratechie.online](kabiratechie.online)
+- 👨‍💻 All of my projects are available at [My_Portfolio](https://www.kabiratechie.online/)
 
 - 📫 How to reach me **karansingh999703@gmail.com**
 

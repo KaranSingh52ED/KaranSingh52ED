@@ -6,12 +6,15 @@ Indian Institute of Technology, Madras, India
 ## <h3 align="center">A passionate software developer from India</h3>
 
 [![committers.top badge](https://user-badge.committers.top/india/karansingh52ed.svg)](https://user-badge.committers.top/india/karansingh52ed.svg)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KaranSingh52ED.KaranSingh52ED&"  />
+</div>
 
 - 🔭 I’m currently working on **Scymes Services Pvt. Ltd.**
 
 - 🌱 I’m currently learning **C++ DSA**
 
-- 👨‍💻 All of my projects are available at [My_Portfolio](https://www.kabiratechie.online/)
+- 👨‍💻 All of my projects are available at [My-Portfolio](https://www.kabiratechie.online/)
 
 - 📫 How to reach me **karansingh999703@gmail.com**
 

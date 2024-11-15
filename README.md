@@ -18,7 +18,7 @@ Indian Institute of Technology, Madras, India
 
 - 📫 How to reach me **karansingh999703@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EzjNnuL28NgtnDpH6d8SzWCAsVyobFaN/view?usp=sharing](https://drive.google.com/file/d/1EzjNnuL28NgtnDpH6d8SzWCAsVyobFaN/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Y5CnFNH4QBLYJkRoYFKBDZgtMFttJlgQ/view?usp=drive_link](https://drive.google.com/file/d/1Y5CnFNH4QBLYJkRoYFKBDZgtMFttJlgQ/view?usp=drive_link)
 
 ## <h3 align="left">Connect with me:</h3>
 

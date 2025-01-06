@@ -1,66 +1,261 @@
 ## <h1 align="center">Hi 👋, I'm Karan Singh</h1>
 
-3rd year, Integrated (B.Tech + M.Tech) Engineering Design,  
-Indian Institute of Technology, Madras, India
+<h1 align="center">💫 All About Myself </h1>
 
-## <h3 align="center">A passionate software developer from India</h3>
-
-[![committers.top badge](https://user-badge.committers.top/india/karansingh52ed.svg)](https://user-badge.committers.top/india/karansingh52ed.svg)
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KaranSingh52ED.KaranSingh52ED&"  />
-</div>
+	
+<table width="100%">
+<tr>
+<td>
+<ul>
+<li>👨‍💻 3rd year, Integrated (B.Tech + M.Tech) Engineering Design,  
+Indian Institute of Technology, Madras.</li>
+<li>📚 Every day I keep learning about different technologies.</li>
+<li>👯 Interested in Full Stack Web Development, Data Science and Machine Learning.</li>
+<li>✨ Currently Learning Machine Learning, Python and C++ DSA.</li>
+<li>🌱 Experimenting with Generative AI Technologies.</li>
+<li>💪🏼 New objectives: Learn more and not stop developing ideas.</li>
+<li>⚡ I love Reading Books and click exciting Photographs 📖.</li>
+</ul>
+</td>
+<td>
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</td>
+</tr>
+</table>
 
-- 🔭 I’m currently working on **Scymes Services Pvt. Ltd.**
+<h1 align="center">🌐 Contact & Socialize with Me </h1>
 
-- 🌱 I’m currently learning **C++ DSA**
+<p align="center">
+<a href="https://www.kabiratechie.online/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=code&logoColor=white"></a>
 
-- 👨‍💻 All of my projects are available at [My-Portfolio](https://www.kabiratechie.online/)
+<a href="mailto:karansingh999703@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://wa.me/+917088474701" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://instagram.com/karan7723singh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://t.me/@IITianKaran" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.youtube.com/@" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
+<a href="https://medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://github.com/KaranSingh52ED" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://linktr.ee/" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/karan-singh-875797260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.behance.net/" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://app.daily.dev/" target="_blank"><img src="https://img.shields.io/badge/Daily.dev-8A2BE2?style=for-the-badge&logo=daily.dev&logoColor=white"></a>
+<a href="https://teams.microsoft.com/l/chat/0/0?users=ed22b052@smail.iitm.ac.in" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>
+<a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://taplink.cc/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Taplink-41E5C1?style=for-the-badge&logo=link&logoColor=white"></a>
 
-- 📫 How to reach me **karansingh999703@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y5CnFNH4QBLYJkRoYFKBDZgtMFttJlgQ/view?usp=drive_link](https://drive.google.com/file/d/1Y5CnFNH4QBLYJkRoYFKBDZgtMFttJlgQ/view?usp=drive_link)
-
-## <h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://developers.google.com/profile/u/karansingh52ed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://developers.google.com/profile/u/karansingh52ed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-singh-875797260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-singh-875797260/" height="30" width="40" /></a>
-<a href="https://instagram.com/karan7723singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan7723singh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucn1zee0w2bk6oww8fhelvhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucn1zee0w2bk6oww8fhelvhq" height="30" width="40" /></a>
 </p>
 
-## Skills
+<!--
+<a href="https://pinterest.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"></a>
+<a href="https://leetcode.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+<a href="https://www.codingninjas.com/codestudio/profile/yourprofile" target="_blank"><img src="https://img.shields.io/badge/CodeStudio-2C3E50?style=for-the-badge&logo=code&logoColor=white"></a>
+<a href="https://auth.geeksforgeeks.org/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+<a href="https://www.interviewbit.com/profile/yourprofile" target="_blank"><img src="https://img.shields.io/badge/InterviewBit-323754?style=for-the-badge&logo=code&logoColor=white"></a>
+<a href="https://codeforces.com/profile/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+<a href="https://www.codechef.com/users/yourprofile" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+<a href="https://www.hackerrank.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+-->
 
-<div align="right">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansingh52ed&theme=highcontrast&langs_count=10&layout=compact" />
-    </a>
-</div>
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=KaranSingh52ED&theme=radical&no-bg=true&no-frame=true&column=-1")]
+-->
 
-- Web and Mobile application Development
-- DevOps Engineering, Process Automation, Version control
-- Programming Languages: C++, C, Python, JavaScript, Rust.
-- Data Science and Machine Learning Enthusiasts
-- Low level and High level system design
-- Cloud computation
-- Full stack software engineering
-- Simulation and Modelling
-
-## Badges
-
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=karansingh52ed&theme=onedark&column=11" alt="zumrudu-anka" />
-    </a>
-</div>
-
-## <h3 align="left">Tools and Technologies:</h3>
-
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-## Github Statistics
+<h1 align=center>📁 Personal Projects</h1>
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=karansingh52ed&show_icons=true&locale=en" alt="karansingh52ed" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karansingh52ed&" alt="karansingh52ed" />
+  
+|             Project Name               |                                              Description                                                     |
+|----------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| [Remisense](https://xyz.vercel.app/)   | Multiple Disease AI Based Prognosis Webapp with Personalized Telecare Support & Medical Assistance Platform  |
+| [Skillovance](https://xyz.vercel.app/) | Ultimate Website providing all College Study and Placement Resources for Undergraduates & Tech Professionals |
+| [Solefolio](https://xyz.vercel.app/)   | A Completely Responsive Personal Portfolio Showcasing all of my Personal Career Credentials and Developments | 
+| [NovaNeet](https://xyz.vercel.app/)    | Total Resource Materials and Guidance Hub for the Best Preparation Strategies of Upcoming NEET UG Aspirants  |
+| [JanDukaan](https://xyz.vercel.app/)   | Easy & User friendly Webapp for Pricing & Features Comparison of the Commodities among all E-Commerce Sites  |
+| [Linkette](https://xyz.vercel.app/)    | Save and Organize your Important Links effortlessly across Devices with Synchronized Updates & Swift Access  | 
+| [Admipass](https://xyz.vercel.app/)    | Securely Manage and Unify all your Personal Passwords with a Single Web Platform as a Categorical Dashboard  |
+
+</div><be>
+
+<h1 align=center>⚙ Expertise Skills</h1>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,rust,arduino,html,css,js,ts,react,svelte,redux,bootstrap,tailwind,nextjs,django,nodejs,express,mongodb,firebase,mysql,postgres,sass,ubuntu,linux,windows,fastapi,postman,git,github,gitlab,discord,docker,kubernetes,nginx,powershell,vscode,replit,blender,matlab,autocad,npm,pnpm,bun,yarn" />
+  </a>
+</p>
+
+<h1 align=center>🎓 Education</h1>
+
+<div align="center">
+
+| Institute                                                                                                                 | Degree                       | Specialization     | Grade        | Distinction           |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------ | ------------ | --------------------- |
+| [Indian Institute of Technology, Madras](https://www.iitm.ac.in/)                                                         | Integrated B.tech and M.tech | Engineering Design | CGPA = 7.07  |                       |
+| [Gram Swavalambi Inter College, Chhatikara, Mathura](https://schools.org.in/mathura/09140104607/g-s-v-inter-college.html) | 12th Board                   | Science Stream     | %age = 79.60 | 1st(Topper) in School |
+| [Pt. Narayan Inter College, Jait, Mathura](https://schools.org.in/mathura/09140104607/g-s-v-inter-college.html)           | 10th Board                   | Science Stream     | %age = 80.83 | 1st(Topper) in School |
+
 </div>
+
+<h1 align="center">🌟 Competitive Coding Profiles </h1>
+
+<p align="center">
+
+<a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+<a href="https://www.hackerrank.com/" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+<a href="https://www.codechef.com/users/" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+<a href="https://auth.geeksforgeeks.org/user/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+<a href="https://codeforces.com/profile/" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+<a href="https://www.hackerearth.com/" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"></a>
+
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- <td valign="top">
+        <h1 align=center>🏆 Achievements</h1>
+        <ul>
+          <li>🏆 Winner with AIR 4 in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">AI Arena 2.0</a> Hackathon of Mercer Mettl.</li>
+          <li>🥇 Winner with AIR 2 in 22nd Edition of <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Flipr Startup</a> Hackathon.</li>
+          <li>🥈 Ranked 2nd in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Innovathon Contest</a> of Techno Main Saltlake.</li>
+          <li>🥇 Winner of Software Edition in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Smart India Hackathon</a> in TMSL.</li>
+          <li>🥉 Got Top 16 Teams Rank in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Hackoverflow 7.0</a> Event of NIT DGP.</li>
+          <li>📄 Finalist in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Hack O NIT 24</a> Hackathon Event by NIT Agarpara.</li>
+          <li>💼 Attended Final Round of <a href="https://www.mettl.com/ai-arena-2.0-hackathon">AI Unite Hackathon</a> of Techno Billion.</li>
+          <li>🌐 Reached the Final Round of the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Techviz Contest</a> of BITS Pilani.</li>
+          <li>💻 Achieved Top 25 AIR in Semifinal Round of <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Ninjasprint Ideathon</a>.</li>
+          <li>🌟 Shortlisted with AIR 45 in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Code Haven 1.0</a> of IIIT Allahabad.</li>
+          <li>🚀 Winner with AIR 8 in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">CodeQuezt 7.0</a> Contest of First Naukri.</li>
+          <li>🌀 Ranked 8th in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Hack Genesis 24</a> Hackathon of Christ University.</li>
+          <li>🎉 Participated and stood 8th in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Ureckathon 4.0</a> Event of UEM.</li>
+        </ul>
+      </td> -->
+      <td valign="top">
+        <h1 align=center>📄 Certificates</h1>
+        <ul>
+	        <li><a href="https://xyz.vercel.app/">Coursera</a> Introduction to Back End Development</li>
+	        <li><a href="https://xyz.vercel.app/">Coursera</a> Introduction to Front End Development</li>
+	        <li><a href="https://xyz.vercel.app/">Udemy</a> Fullstack Development</li>
+          	<li><a href="https://xyz.vercel.app/">IBM</a> Data Analysis using Python Certification</li>
+	        <li><a href="https://xyz.vercel.app/">Postman</a> API Fundamentals Student Expert Course</li>
+			<li><a href="https://xyz.vercel.app/">Udemy</a> Object Oriented Programming </li>
+          	<li><a href="https://xyz.vercel.app/">Udemy</a>  Data Structures and Algorithms</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h1 align=center>💻 Technical Stacks</h1>
+<table>
+	<tr>
+		<td><strong>Programming Languages & Technologies</strong></td>
+		<td><strong>Hardware Components and Devices</strong></td>
+	</tr>
+	<tr>
+		<td><img src = "https://skillicons.dev/icons?i=c,cpp,rust,py,js,ts" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height=38></td>
+	</tr>
+	<tr>
+		<td><strong>Frameworks and Libraries(Front End + Back End + AIML)</strong></td>
+		<td><strong>Developer Software Tools and Platforms</strong></td>
+	</tr>
+	<tr>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,bootstrap,react,svelte,nextjs,tailwind,express,nodejs,fastapi,&theme=dark" height=38></td> 
+		<td><img src = "https://skillicons.dev/icons?i=cloudflare,git,github,postman,vscode,latex,netlify,vercel,nginx&theme=dark"  height=38></td>
+	</tr>
+	<tr>
+		<td><strong>Cloud Services and Databases Systems</strong></td>
+		<td><strong>Designing, Editing and 3d Modeling (UI UX & Graphics)</strong></td>
+	</tr>
+	<tr>
+		<td><img src = "https://skillicons.dev/icons?i=aws,azure,postgres,mysql,mongodb,supabase" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=figma,ps,autocad,matlab,blender&theme=dark" height=38></td>
+	</tr>
+ 		<td><strong>Coursework Subjects(CS Fundamentals)</strong></td>
+		<td><strong>Professional and Interpersonal Soft Skills</strong></td>
+	</tr>
+	<tr>
+    	<td>
+        <ul>
+            <li>Data Structures & Algorithms & Database Management System</li>
+            <li>Computer Networking, Object Oriented Programming Concepts</li>
+        </ul>
+    	</td>
+   	 <td>
+        <ul>
+            <li>Teamwork, Leadership and Problem Solving</li>
+            <li>Communication, Presentation, Management</li>
+        </ul>
+   	 </td>
+	</tr>
+	<tr>
+</table>
+
+<h1 align=center>📊 GitHub Stats</h1>
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaranSingh52ED&theme=radical&hide_border=false">
+<img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSingh52ED&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+<img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaranSingh52ED&theme=radical&hide_border=false">
+<img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaranSingh52ED&theme=radical&hide_border=false">
+<img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaranSingh52ED&theme=radical&utcOffset=8&hide_border=false">
+<img height="176em" src="https://github-readme-stats.vercel.app/api?username=KaranSingh52ED&show_icons=true&rank_icon=github&theme=radical&hide_border=true&card_width=320_private=false">
+<img height="176em" src="https://github-readme-streak-stats.herokuapp.com?user=KaranSingh52ED&theme=radical&hide_border=true">
+</div><br>
+
+<h1 align=center>🏆Github Trophies</h1>
+
+![ ](https://komarev.com/ghpvc/?username=KaranSingh52ED&color=blue)
+</a>
+<a href="https://github.com/KaranSingh52ED?tab=followers"><img src="https://img.shields.io/github/followers/KaranSingh52ED?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://img.shields.io/github/stars/KaranSingh52ED?label=Stars" alt="GitHub stars" />
+<a href ="https://metrics.lecoq.io/insights/KaranSingh52ED"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=KaranSingh52ED.KaranSingh52ED&"  />
+<a 
+  style="display: flex; align-items: center; justify-content: space-between; gap: 20px;" 
+  href="https://github.com/ryo-ma/github-profile-trophy" 
+  title="Go to Source">
+<img 
+    align="center" 
+    width="100%" 
+    src="https://github-profile-trophy.vercel.app/?username=karansingh52ed&theme=monokai&column=11" 
+    alt="zumrudu-anka" 
+  />
+</a>
+
+</p>
+
+<h1 align=center>💼 Professional Experiences</h1>
+
+<div align=center>
+
+| Role                        | Organisation                                                             | Time Duration       | Type                                                                                                            |
+| --------------------------- | ------------------------------------------------------------------------ | ------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/) | Nov 2024 - Dec 2024 | [Completion Certificate](https://drive.google.com/file/d/1xIGKU9m0jGjqAV51B6ojGcSFo8u0cN-X/view?usp=drive_link) |
+| Software Development Intern | [Scymes Services Pvt Ltd](https://www.linkedin.com/company/scymes/)      | Oct 2024 - Nov 2024 | [Completion Certificate](https://xyz.vercel.app/)                                                               |
+| Software Developer Intern   | [Xzect Labs Pvt Ltd](https://www.linkedin.com/company/xzect/)            | Feb 2024 - Apr 2024 | [Completion Certificate](https://xyz.vercel.app/)                                                               |
+| Full Stack Developer Intern | [Nirmaan IIT Madras](https://www.linkedin.com/company/nirmaan-iitm/)     | May 2023 - Jul 2023 | [Completion Certificate](https://xyz.vercel.app/)                                                               |
+| Product Developer           | [NSS IIT MADRAS](https://www.linkedin.com/company/nss-iit-madras/)       | Jan 2023 - May 2023 | [Completion Certificate](https://xyz.vercel.app/)                                                               |
+
+</div>
+
+<h1 align=center>📒 Internships from NGOs and Foundations</h1>
+
+<div align=center>
+
+| Role                   | Organisation                                                                                       | Time Duration       | Type                                              |
+| ---------------------- | -------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------- |
+| Content Writer Intern  | [Marpu Foundation](https://www.linkedin.com/company/marpufoundation/)                              | Jul 2024 - Sep 2024 | [Completion Certificate](https://xyz.vercel.app/) |
+| Web Development Intern | [Suvidha Foundation (Suvidha Mahila Mandal)](https://www.linkedin.com/company/suvidha-foundation/) | Jun 2024 - Jul 2024 | [Completion Certificate](https://xyz.vercel.app/) |
+| Web Development Intern | [Bishwas Technology](https://www.linkedin.com/company/bishwas-technologys/)                        | Sep 2023 - Oct 2023 | [Completion Certificate](https://xyz.vercel.app/) |
+
+</div>
+
+<h1 align=center>📈 Github Activity Graph</h1>
+
+[![Karan Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaranSingh52ED&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=false)](https://github.com/KaranSingh52ED/github-readme-activity-graph)

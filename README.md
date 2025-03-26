@@ -67,17 +67,25 @@ Indian Institute of Technology, Madras.</li>
 
 <div align="center">
   
-|             Project Name               |                                              Description                                                     |
-|----------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| [Remisense](https://xyz.vercel.app/)   | Multiple Disease AI Based Prognosis Webapp with Personalized Telecare Support & Medical Assistance Platform  |
-| [Skillovance](https://xyz.vercel.app/) | Ultimate Website providing all College Study and Placement Resources for Undergraduates & Tech Professionals |
-| [Solefolio](https://xyz.vercel.app/)   | A Completely Responsive Personal Portfolio Showcasing all of my Personal Career Credentials and Developments | 
-| [NovaNeet](https://xyz.vercel.app/)    | Total Resource Materials and Guidance Hub for the Best Preparation Strategies of Upcoming NEET UG Aspirants  |
-| [JanDukaan](https://xyz.vercel.app/)   | Easy & User friendly Webapp for Pricing & Features Comparison of the Commodities among all E-Commerce Sites  |
-| [Linkette](https://xyz.vercel.app/)    | Save and Organize your Important Links effortlessly across Devices with Synchronized Updates & Swift Access  | 
-| [Admipass](https://xyz.vercel.app/)    | Securely Manage and Unify all your Personal Passwords with a Single Web Platform as a Categorical Dashboard  |
+| Project Name | Description |
+|-------------|-------------|
+| **TulsiVerse The Woodworks** | Handcrafted woodcarving platform with multi-language support, e-commerce, and community features. |
+| **Automated Robotic Arm System** | Arduino robotic arm for object handling using sensors, motors, and precise sorting. |
+| **CyberCoder** | Web-based IDE with real-time collaboration, supporting 35+ languages and live chat. |
+| **MarkNotes** | Note-taking web portal with HTML formatting, multimedia attachments, and secure data storage. |
+| **Fintech Indian Bank App** | Secure banking app with UPI integration, transaction tracking, and AI-driven insights. |
+| **T5E News Buddy Mobile App** | Mobile app for IIT Madras news with notifications, event tracking, and article sharing. |
+| **InstiGPT** | AI-powered chatbot for IIT Madras students, providing academic and campus-related assistance. |
+| **InstiBus** | Live bus tracking system for IIT Madras with route optimization and real-time updates. |
+| **AgriTrading Website** | Marketplace for farmers to trade crops and equipment with real-time price tracking. |
+| **SvelteTODO** | Minimalist task management app with Svelte, featuring offline support and real-time sync. |
+| **News App** | Aggregates latest news from multiple sources, featuring category-based filtering and live updates. |
+| **LMS Website** | Learning management system for online courses with progress tracking and certification support. |
 
-</div><be>
+
+</div>
+
+
 
 <h1 align=center>⚙ Expertise Skills</h1>
 

@@ -99,11 +99,11 @@
 
 <div align="center">
 
-| Institute                                                                                                                 | Degree                       | Specialization     | Grade   | Distinction           |
-| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------ | --------| --------------------- |
-| [Indian Institute of Technology, Madras](https://www.iitm.ac.in/)                                                         | Integrated B.tech and M.tech | Engineering Design | CGPA =  |                       |
-| [Gram Swavalambi Inter College, Chhatikara, Mathura](https://schools.org.in/mathura/09140104607/g-s-v-inter-college.html) | 12th Board                   | Science Stream     | 79.60 % | 1st(Topper) in School |
-| [Pt. Narayan Inter College, Jait, Mathura](https://schools.org.in/mathura/09140104607/g-s-v-inter-college.html)           | 10th Board                   | Science Stream     | 80.83 % | 1st(Topper) in School |
+| Institute                                                                                                                 | Degree                       | Specialization     | Grade  | Distinction           |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------ | -------| --------------------- |
+| [Indian Institute of Technology, Madras](https://www.iitm.ac.in/)                                                         | Integrated B.tech and M.tech | Engineering Design | CGPA = |                       |
+| [Gram Swavalambi Inter College, Chhatikara, Mathura](https://schools.org.in/mathura/09140104607/g-s-v-inter-college.html) | 12th Board                   | Science Stream     | 79.60% | 1st(Topper) in School |
+| [Pt. Narayan Inter College, Jait, Mathura](https://schools.org.in/mathura/09140104607/g-s-v-inter-college.html)           | 10th Board                   | Science Stream     | 80.83% | 1st(Topper) in School |
 
 </div>
 

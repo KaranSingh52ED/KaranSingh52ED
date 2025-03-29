@@ -7,15 +7,15 @@
 <table width="100%">
 <tr>
 <td>
-<ul>
-<li>👨‍💻 3rd year, Integrated (B.Tech + M.Tech) Engineering Design,  
-Indian Institute of Technology, Madras.</li>
-<li>📚 Every day I keep learning about different technologies.</li>
-<li>👯 Interested in Full Stack Web Development, Data Science and Machine Learning.</li>
-<li>✨ Currently Learning Machine Learning, Python and C++ DSA.</li>
-<li>🌱 Experimenting with Generative AI Technologies.</li>
-<li>💪🏼 New objectives: Learn more and not stop developing ideas.</li>
-<li>⚡ I love Reading Books and click exciting Photographs 📖.</li>
+<ul style="list-style: none; padding: 0; font-family: Arial, sans-serif; line-height: 1.6;">
+    <li>👨‍💻 <strong>3rd Year | Integrated (B.Tech + M.Tech) | Engineering Design</strong><br> 
+        📍 <em>Indian Institute of Technology, Madras</em></li>
+    <li>📚 <strong>Lifelong Learner</strong> | Passionate about exploring new technologies daily.</li>
+    <li>👯 <strong>Fields of Interest</strong>: Full Stack Web Development, Data Science & Machine Learning.</li>
+    <li>✨ <strong>Currently Learning</strong>: Machine Learning, Python & C++ DSA.</li>
+    <li>🌱 <strong>Experimenting With</strong>: Generative AI Technologies.</li>
+    <li>💪🏼 <strong>Objective</strong>: Keep learning, keep building, and never stop innovating!</li>
+    <li>⚡ <strong>Hobbies</strong>: I love reading books, especially on <em>philosophy & spiritualism</em>.</li>
 </ul>
 </td>
 <td>
@@ -99,11 +99,11 @@ Indian Institute of Technology, Madras.</li>
 
 <div align="center">
 
-| Institute                                                                                                                 | Degree                       | Specialization     | Grade        | Distinction           |
-| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------ | ------------ | --------------------- |
-| [Indian Institute of Technology, Madras](https://www.iitm.ac.in/)                                                         | Integrated B.tech and M.tech | Engineering Design | CGPA = 7.07  |                       |
-| [Gram Swavalambi Inter College, Chhatikara, Mathura](https://schools.org.in/mathura/09140104607/g-s-v-inter-college.html) | 12th Board                   | Science Stream     | %age = 79.60 | 1st(Topper) in School |
-| [Pt. Narayan Inter College, Jait, Mathura](https://schools.org.in/mathura/09140104607/g-s-v-inter-college.html)           | 10th Board                   | Science Stream     | %age = 80.83 | 1st(Topper) in School |
+| Institute                                                                                                                 | Degree                       | Specialization     | Grade   | Distinction           |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------ | --------| --------------------- |
+| [Indian Institute of Technology, Madras](https://www.iitm.ac.in/)                                                         | Integrated B.tech and M.tech | Engineering Design | CGPA =  |                       |
+| [Gram Swavalambi Inter College, Chhatikara, Mathura](https://schools.org.in/mathura/09140104607/g-s-v-inter-college.html) | 12th Board                   | Science Stream     | 79.60 % | 1st(Topper) in School |
+| [Pt. Narayan Inter College, Jait, Mathura](https://schools.org.in/mathura/09140104607/g-s-v-inter-college.html)           | 10th Board                   | Science Stream     | 80.83 % | 1st(Topper) in School |
 
 </div>
 

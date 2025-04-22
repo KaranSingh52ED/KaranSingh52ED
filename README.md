@@ -38,17 +38,19 @@
 <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
 <a href="https://medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://github.com/KaranSingh52ED" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://teams.microsoft.com/l/chat/0/0?users=ed22b052@smail.iitm.ac.in" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>
 <a href="https://linktr.ee/" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/karan-singh-875797260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!--
 <a href="https://www.behance.net/" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://app.daily.dev/" target="_blank"><img src="https://img.shields.io/badge/Daily.dev-8A2BE2?style=for-the-badge&logo=daily.dev&logoColor=white"></a>
-<a href="https://teams.microsoft.com/l/chat/0/0?users=ed22b052@smail.iitm.ac.in" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>
+
 <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <a href="https://taplink.cc/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Taplink-41E5C1?style=for-the-badge&logo=link&logoColor=white"></a>
 
 </p>
 
-<!--
+
 <a href="https://pinterest.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"></a>
 <a href="https://leetcode.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 <a href="https://www.codingninjas.com/codestudio/profile/yourprofile" target="_blank"><img src="https://img.shields.io/badge/CodeStudio-2C3E50?style=for-the-badge&logo=code&logoColor=white"></a>

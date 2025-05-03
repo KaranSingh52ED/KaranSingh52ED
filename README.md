@@ -41,6 +41,7 @@
 <a href="https://teams.microsoft.com/l/chat/0/0?users=ed22b052@smail.iitm.ac.in" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>
 <a href="https://linktr.ee/" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/karan-singh-875797260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 <!--
 <a href="https://www.behance.net/" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://app.daily.dev/" target="_blank"><img src="https://img.shields.io/badge/Daily.dev-8A2BE2?style=for-the-badge&logo=daily.dev&logoColor=white"></a>
@@ -71,6 +72,7 @@
   
 | Project Name | Description |
 |-------------|-------------|
+| **Sign Language Detection System** | Deep Learning-Based System for Accurate Finger Count and Gesture Recognition in Sign Language. |
 | **TulsiVerse The Woodworks** | Handcrafted woodcarving platform with multi-language support, e-commerce, and community features. |
 | **Automated Robotic Arm System** | Arduino robotic arm for object handling using sensors, motors, and precise sorting. |
 | **CyberCoder** | Web-based IDE with real-time collaboration, supporting 35+ languages and live chat. |
@@ -84,10 +86,7 @@
 | **News App** | Aggregates latest news from multiple sources, featuring category-based filtering and live updates. |
 | **LMS Website** | Learning management system for online courses with progress tracking and certification support. |
 
-
 </div>
-
-
 
 <h1 align=center>⚙ Expertise Skills</h1>
 
@@ -102,8 +101,8 @@
 <div align="center">
 
 | Institute                                                                                                                 | Degree                       | Specialization     | Grade  | Distinction           |
-| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------ | -------| --------------------- |
-| [Indian Institute of Technology, Madras](https://www.iitm.ac.in/)                                                         | Integrated B.tech and M.tech | Engineering Design | CGPA = |                       |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------ | ------ | --------------------- |
+| [Indian Institute of Technology, Madras](https://www.iitm.ac.in/)                                                         | Integrated B.tech and M.tech | Engineering Design | CGPA = | --------------------- |
 | [Gram Swavalambi Inter College, Chhatikara, Mathura](https://schools.org.in/mathura/09140104607/g-s-v-inter-college.html) | 12th Board                   | Science Stream     | 79.60% | 1st(Topper) in School |
 | [Pt. Narayan Inter College, Jait, Mathura](https://schools.org.in/mathura/09140104607/g-s-v-inter-college.html)           | 10th Board                   | Science Stream     | 80.83% | 1st(Topper) in School |
 
@@ -244,13 +243,15 @@
 
 <div align=center>
 
-| Role                        | Organisation                                                             | Time Duration       | Type                                                                                                            |
-| --------------------------- | ------------------------------------------------------------------------ | ------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/) | Nov 2024 - Dec 2024 | [Completion Certificate](https://drive.google.com/file/d/1xIGKU9m0jGjqAV51B6ojGcSFo8u0cN-X/view?usp=drive_link) |
-| Software Development Intern | [Scymes Services Pvt Ltd](https://www.linkedin.com/company/scymes/)      | Oct 2024 - Nov 2024 | [Completion Certificate](https://xyz.vercel.app/)                                                               |
-| Software Developer Intern   | [Xzect Labs Pvt Ltd](https://www.linkedin.com/company/xzect/)            | Feb 2024 - Apr 2024 | [Completion Certificate](https://xyz.vercel.app/)                                                               |
-| Full Stack Developer Intern | [Nirmaan IIT Madras](https://www.linkedin.com/company/nirmaan-iitm/)     | May 2023 - Jul 2023 | [Completion Certificate](https://xyz.vercel.app/)                                                               |
-| Product Developer           | [NSS IIT MADRAS](https://www.linkedin.com/company/nss-iit-madras/)       | Jan 2023 - May 2023 | [Completion Certificate](https://xyz.vercel.app/)                                                               |
+| Role                                         | Organisation                                                             | Time Duration       | Type                                                |
+| -------------------------------------------- | ------------------------------------------------------------------------ | ------------------- | --------------------------------------------------- |
+| Technical Architecture and Product Developer | [InsightsChakra Pvt Ltd](https://www.linkedin.com/company/)              | May 2025 - Present  | [Completion Certificate](https://drive.google.com/) |
+| Technical Research Intern                    | [Universal Fabrication](https://www.linkedin.com/company/)               | Apr 2025 - Present  | [Completion Certificate](https://drive.google.com/) |
+| Software Development Intern                  | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/) | Nov 2024 - Dec 2024 | [Completion Certificate](https://drive.google.com/) |
+| Software Development Intern                  | [Scymes Services Pvt Ltd](https://www.linkedin.com/company/scymes/)      | Oct 2024 - Nov 2024 | [Completion Certificate](https://xyz.vercel.app/)   |
+| Software Developer Intern                    | [Xzect Labs Pvt Ltd](https://www.linkedin.com/company/xzect/)            | Feb 2024 - Apr 2024 | [Completion Certificate](https://xyz.vercel.app/)   |
+| Full Stack Developer Intern                  | [Nirmaan IIT Madras](https://www.linkedin.com/company/nirmaan-iitm/)     | May 2023 - Jul 2023 | [Completion Certificate](https://xyz.vercel.app/)   |
+| Product Developer                            | [NSS IIT MADRAS](https://www.linkedin.com/company/nss-iit-madras/)       | Jan 2023 - May 2023 | [Completion Certificate](https://xyz.vercel.app/)   |
 
 </div>
 
@@ -260,6 +261,7 @@
 
 | Role                   | Organisation                                                                                       | Time Duration       | Type                                              |
 | ---------------------- | -------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------- |
+| Advanced AI Intern     | [AICTE MICROSOFT](https://www.linkedin.com/company/edunetfoundation/)                              | Apr 2025 - May 2025 | [Completion Certificate](https://xyz.vercel.app/) |
 | Content Writer Intern  | [Marpu Foundation](https://www.linkedin.com/company/marpufoundation/)                              | Jul 2024 - Sep 2024 | [Completion Certificate](https://xyz.vercel.app/) |
 | Web Development Intern | [Suvidha Foundation (Suvidha Mahila Mandal)](https://www.linkedin.com/company/suvidha-foundation/) | Jun 2024 - Jul 2024 | [Completion Certificate](https://xyz.vercel.app/) |
 | Web Development Intern | [Bishwas Technology](https://www.linkedin.com/company/bishwas-technologys/)                        | Sep 2023 - Oct 2023 | [Completion Certificate](https://xyz.vercel.app/) |
